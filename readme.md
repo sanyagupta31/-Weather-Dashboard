@@ -10,7 +10,7 @@ This project analyzes **historical weather data** using Python. It includes **da
 
 ### Dashboard Output
 
-![Dashboard Screenshot](image.png)
+![Dashboard Screenshot](pic.png)
 
 
 ---
